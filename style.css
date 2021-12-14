@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+  background-color: #b0c4de;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+footer {
+  margin-top: 2rem;
+  color: white;
+  background-color: slategrey;
+}
